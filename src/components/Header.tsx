@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const Header: React.FC = () => {
   return <div>
     <div>
@@ -98,14 +97,12 @@ const Header: React.FC = () => {
 
             <h1 className="text-3xl leading-tight sm:text-4xl md:text-5xl xl:text-6xl
         font-bold text-gray-900">
-              Social Media <span
-                className="text-transparent bg-clip-text bg-gradient-to-br from-indigo-600 from-20% via-blue-600 via-30% to-green-600">Marketing</span>
-              is the Best Ever.
+              Secure & scalable platform where <span
+                className="text-transparent bg-clip-text bg-gradient-to-br from-indigo-600 from-20% via-blue-600 via-30% to-green-600">Developers</span>
+              can upload and manage their actions.
             </h1>
             <p className="mt-8 text-gray-700">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores repellat perspiciatis aspernatur
-              quis voluptatum porro incidunt,
-              libero sequi quos eos velit
+              Developing CustomGPTs that are widely used and creating a bustling marketplace of actions — puts us at the intersection of innovation and commerce in the AI space. By focusing on quality and user engagement, we position ourselves to earn revenue shares from OpenAI and direct sales through our marketplace.
             </p>
             <div className="mt-10  w-full flex max-w-md mx-auto lg:mx-0">
               <div className="flex sm:flex-row flex-col gap-5 w-full">
