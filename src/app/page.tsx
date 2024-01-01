@@ -1,5 +1,6 @@
 'use client';
 
+import Graph from '@/components/Graph';
 import Header from '@/components/Header';
 import Stats from '@/components/Stats';
 import * as React from 'react';
@@ -9,6 +10,7 @@ export default function HomePage() {
     <div>
       <Header />
       <Stats />
+      <Graph />
     </div>
   );
 }
