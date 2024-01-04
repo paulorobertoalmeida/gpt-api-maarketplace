@@ -18,7 +18,7 @@ const Header: React.FC = () => {
                     className="absolute w-2 h-2 rounded-full bg-gray-900 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"></span>
                 </div>
                 <div className="inline-flex text-lg font-semibold text-gray-900">
-                  GPT API Market Place
+                  <span className='text-transparent bg-clip-text bg-gradient-to-br from-indigo-600 from-20% via-blue-600 via-30% to-green-600'>Hyff</span>
                 </div>
               </a>
             </div>
