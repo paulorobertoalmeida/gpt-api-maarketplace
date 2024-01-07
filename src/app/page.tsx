@@ -1,5 +1,6 @@
 'use client';
 
+import Cards from '@/components/Cards';
 import Graph from '@/components/Graph';
 import Header from '@/components/Header';
 import Stats from '@/components/Stats';
@@ -9,8 +10,7 @@ export default function HomePage() {
   return (
     <div>
       <Header />
-      <Stats />
-      <Graph />
+      <Cards />
     </div>
   );
 }
